@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Verkefni</string>
-    <string name="hello_world">Björn Sigurðsson</string>
+    <string name="hello_world">Björn Sigurðsson og Tómas Karl Kjartansson</string>
     <string name="action_settings">Settings</string>
 
 </resources>
